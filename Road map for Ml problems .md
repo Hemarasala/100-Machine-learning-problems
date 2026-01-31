@@ -15,7 +15,14 @@ Mechanism of ML follows:
 ![image alt](https://github.com/Hemarasala/100-Machine-learning-problems/blob/ef588219e5ac9a06ae510dfc612ce19d134e43b8/ml-%20github.webp)
 
 Mechanism of ML:
+1.Input
+2.Feature Extraction
+3.Classification
+4.Output
 
 
 
-![image alt]
+
+
+
+![image alt](https://github.com/Hemarasala/100-Machine-learning-problems/blob/ac9addcbdc584fa72de7b664a80dc098c03afb97/machine%20learning%20machanism.webp)
