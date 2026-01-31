@@ -36,26 +36,42 @@ Mechanism of ML:
 
 
 Types of Ml:
+
+
 1.Supervised-Uses labeled data (input + correct output)
+
+
 ex:Classification, Regression
+
+
 Algorithms: Linear Regression, Logistic Regression, SVM (Support Vector Machine), KNN (K-Nearest Neighbors), Decision Tree
 
 
 
 
 2.Unsupervised- Uses unlabeled data
+
+
 Examples: Clustering, Dimensionality Reduction
+
+
 Algorithms: K-Means, Hierarchical Clustering, PCA
 
 
 
-3. Semi-Supervised Learning-Uses small labeled data + large unlabeled data
+3.Semi-Supervised Learning-Uses small labeled data + large unlabeled data
+
+
 Applications: Medical imaging, speech recognition
 
 
 
 4.Reinforcement-Learns by trial and error through rewards and penalties
+
+
 Applications: Robotics, gaming, self-driving cars
+
+
 Algorithms: Q-Learning, Deep Q-Network (DQN)
 
 
@@ -66,6 +82,7 @@ Algorithms: Q-Learning, Deep Q-Network (DQN)
 
 
 ![image alt](https://github.com/Hemarasala/100-Machine-learning-problems/blob/8196172b1a37ff97cb35a9a65a4ef0bd5e56e70e/types%20of%20ml%20image.png)
+
 
 
 
