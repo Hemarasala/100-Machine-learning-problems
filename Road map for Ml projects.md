@@ -83,6 +83,8 @@ Algorithms: Q-Learning, Deep Q-Network (DQN)
 
 
 
+
+
 Machine learning projects from basic to advance: 
 
 
@@ -101,4 +103,4 @@ Machine learning projects from basic to advance:
 
 
 
-keep up! spirit Let do it to the end!!
+keep up the spirit! Let do it to the end!!
