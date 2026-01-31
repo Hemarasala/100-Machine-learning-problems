@@ -40,10 +40,7 @@ Types of Ml:
 
 1.Supervised-Uses labeled data (input + correct output)
 
-
 ex:Classification, Regression
-
-
 Algorithms: Linear Regression, Logistic Regression, SVM (Support Vector Machine), KNN (K-Nearest Neighbors), Decision Tree
 
 
@@ -51,16 +48,12 @@ Algorithms: Linear Regression, Logistic Regression, SVM (Support Vector Machine)
 
 2.Unsupervised- Uses unlabeled data
 
-
 Examples: Clustering, Dimensionality Reduction
-
-
 Algorithms: K-Means, Hierarchical Clustering, PCA
 
 
 
 3.Semi-Supervised Learning-Uses small labeled data + large unlabeled data
-
 
 Applications: Medical imaging, speech recognition
 
@@ -70,8 +63,6 @@ Applications: Medical imaging, speech recognition
 
 
 Applications: Robotics, gaming, self-driving cars
-
-
 Algorithms: Q-Learning, Deep Q-Network (DQN)
 
 
@@ -94,3 +85,20 @@ Algorithms: Q-Learning, Deep Q-Network (DQN)
 
 Machine learning projects from basic to advance: 
 
+
+
+
+
+
+
+![image alt](https://github.com/Hemarasala/100-Machine-learning-problems/blob/5a91dbc5c7018c7650bb6faea851467e5b085520/ml%20projects%20image.jpg)
+
+
+
+
+
+
+
+
+
+keep up! spirit Let do it to the end!!
